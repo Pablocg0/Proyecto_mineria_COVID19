@@ -19,12 +19,12 @@ db.authenticate(MONGO_USER, MONGO_PASS)
 tz = pytz.timezone('America/Mexico_City')
 today = datetime.now(tz=tz)
 today_minus = today - timedelta(days=30)
-ficticia = today - timedelta(days=29)
+ficticia = today - timedelta(days=1)
 ficticia = ficticia + timedelta(hours=4)
-print(ficticia)
-print(today)
-print(today_minus)
-#system.out
+# print(ficticia)
+# print(today)
+# print(today_minus)
+# system.out
 
 
 def convertDate(date):
@@ -41,10 +41,7 @@ def downloadData(filtro):
     full_data = pd.DataFrame()
     for tweet in db.tweetsMexico.find():
         fecha = convertDate(tweet['created_at'])
-        print(fecha)
-        #system.out
         if fecha > today_minus and fecha < ficticia:
-            print(fecha)
             texto = tweet['text']
             try:
                 texto = tweet['extended_tweet']['full_text']
@@ -70,7 +67,6 @@ def downloadData(filtro):
                 data = pd.DataFrame(dataDic)
                 full_data = pd.concat([full_data, data], axis=0)
         else:
-            print('nada')
             full_data = full_data.reset_index(drop=True)
             menciones = menciones.reset_index(drop=True)
             hasht = hasht.reset_index(drop=True)
