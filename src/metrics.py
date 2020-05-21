@@ -146,8 +146,8 @@ def grafica_radar(data, termino):
     plt.show()
 
 
-def change_edo(data):
-    estados = pd.read_csv("../data/Estados.csv", index_col=0)
+def change_edo(data, archivo):
+    estados = pd.read_csv(archivo, index_col=0)
     # Convertimos el dataset a diccionario donde la llave es el lugar
     estados = estados.drop_duplicates(subset='PlaceJson')
     estados = estados.set_index('PlaceJson').T.to_dict('list')

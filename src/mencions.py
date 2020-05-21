@@ -7,12 +7,12 @@ import operator
 import collections
 
 
-def Principal(dataframes):
+def Principal(dataframes, archivo):
     full = dataframes[0]
     ht = dataframes[2]
     mn = dataframes[1]
 
-    estados = pd.read_csv("../data/Estados.csv", index_col=0)
+    estados = pd.read_csv(archivo, index_col=0)
     estados = estados.drop_duplicates(subset='PlaceJson')
     estados = estados.set_index('PlaceJson').T.to_dict('list')
 

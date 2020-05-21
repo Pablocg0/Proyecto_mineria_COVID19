@@ -12,7 +12,7 @@ def json_radar(nombre, data):
     f.close()
 
 
-def json_mapa(nombre, data):
+def json_mapa(nombre, data, archivo):
     lugar = data[0]
     etiqueta = data[1]
     numero = data[2]
@@ -30,23 +30,23 @@ def json_mapa(nombre, data):
             json.dump(data, file, indent=4)
 
 
-def procesar_mapa(nombre, data):
+def procesar_mapa(nombre, data, archivo):
     lugar = data['Estado'].tolist()
     etiqueta = data['Hashtag'].tolist()
     numero = data['Num_Hash'].tolist()
-    json_mapa(nombre[0], [lugar, etiqueta, numero])
+    json_mapa(nombre[0], [lugar, etiqueta, numero], archivo)
     lugar = data['Estado'].tolist()
     etiqueta = data['Mencion'].tolist()
     numero = data['Num_mencion'].tolist()
-    json_mapa(nombre[1], [lugar, etiqueta, numero])
+    json_mapa(nombre[1], [lugar, etiqueta, numero], archivo)
     lugar = data['Estado'].tolist()
     etiqueta = data['Usuario_Activo'].tolist()
     numero = data['Num_Usr'].tolist()
-    json_mapa(nombre[2], [lugar, etiqueta, numero])
+    json_mapa(nombre[2], [lugar, etiqueta, numero], archivo)
 
 
-def procesar_mapa2(nombre, data):
+def procesar_mapa2(nombre, data, archivo):
     lugar = data['Estado'].tolist()
     etiqueta = data['terminos'].tolist()
     numero = data['#Repeticiones'].tolist()
-    json_mapa(nombre, [lugar, etiqueta, numero])
+    json_mapa(nombre, [lugar, etiqueta, numero], archivo)
