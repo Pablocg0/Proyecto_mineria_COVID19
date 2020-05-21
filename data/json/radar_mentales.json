@@ -1,11 +1,53 @@
 [ 
 {
- "subject": "ansiedad", "A":1
+ "subject": "salud mental", "A":63
  },
 {
- "subject": "tension", "A":1
+ "subject": "depresion", "A":107
  },
 {
- "subject": "nervioso", "A":1
+ "subject": "cansado", "A":91
+ },
+{
+ "subject": "fatiga", "A":20
+ },
+{
+ "subject": "cansada", "A":71
+ },
+{
+ "subject": "fatigada", "A":1
+ },
+{
+ "subject": "insomnio", "A":266
+ },
+{
+ "subject": "enojado", "A":65
+ },
+{
+ "subject": "enojada", "A":49
+ },
+{
+ "subject": "ansiedad", "A":247
+ },
+{
+ "subject": "crisis de ansiedad", "A":5
+ },
+{
+ "subject": "dolor de espalda", "A":5
+ },
+{
+ "subject": "temblores", "A":7
+ },
+{
+ "subject": "tension", "A":111
+ },
+{
+ "subject": "nervioso", "A":37
+ },
+{
+ "subject": "nerviosa", "A":39
+ },
+{
+ "subject": "me da miedo", "A":77
  }
 ]

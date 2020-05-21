@@ -1,8 +1,26 @@
 [ 
 {
- "subject": "tos", "A":112
+ "subject": "dolor de cabeza", "A":48
  },
 {
- "subject": "diarrea", "A":1
+ "subject": "cuerpo cortado", "A":2
+ },
+{
+ "subject": "tos", "A":17939
+ },
+{
+ "subject": "fiebre", "A":18
+ },
+{
+ "subject": "dolor de espalda", "A":5
+ },
+{
+ "subject": "dolor de garganta", "A":7
+ },
+{
+ "subject": "cansancio", "A":37
+ },
+{
+ "subject": "diarrea", "A":23
  }
 ]

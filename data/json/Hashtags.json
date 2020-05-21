@@ -16,7 +16,9 @@
                 "population": 782890,
                 "sqkm": 5609.14,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "amlo": 102,
+                "prian": 97
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -278,8 +280,8 @@
                 "sqkm": 72725.41,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "amoleer": 1,
-                "cimarr\u00f3nquelee": 1
+                "quedateencasa": 36,
+                "tijuana": 21
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1552,7 +1554,9 @@
                 "population": 345682,
                 "sqkm": 72278.3,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "earthday": 11,
+                "video": 8
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -3409,7 +3413,9 @@
                 "population": 582193,
                 "sqkm": 50234.82,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "qu\u00e9dateencasa": 27,
+                "quedateencasa": 13
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4031,7 +4037,8 @@
                 "sqkm": 73771.48,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "sntenoticias": 1
+                "4tnosdejasincomida": 19,
+                "chiapasconhambre": 18
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4705,8 +4712,8 @@
                 "sqkm": 247935.02,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "amloelmejorpresidentedelmundo": 1,
-                "quedateencasa": 1
+                "quedateencasa": 30,
+                "teamcacas": 24
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -5840,8 +5847,8 @@
                 "sqkm": 1342.75,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "jethrotull": 3,
-                "love": 2
+                "quedateencasa": 336,
+                "qu\u00e9dateencasa": 236
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -6939,7 +6946,9 @@
                 "population": 466124,
                 "sqkm": 5747.09,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "manzanillo": 21,
+                "eprheapoetry": 7
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -7152,7 +7161,9 @@
                 "population": 1467826,
                 "sqkm": 120674.6,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "durango": 35,
+                "covid19": 24
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8254,8 +8265,8 @@
                 "sqkm": 21694.38,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "streamhoneyboovideo": 3,
-                "followmemariob": 2
+                "cuidemostodosdetodos": 213,
+                "teamcacas": 127
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8965,8 +8976,8 @@
                 "sqkm": 30466.18,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "rebelde": 1,
-                "castillodelapureza": 1
+                "thewantedparty2020": 50,
+                "qu\u00e9dateencasa": 30
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9636,7 +9647,8 @@
                 "sqkm": 64626.02,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "acapulquito": 1
+                "acapulco": 22,
+                "quedateencasa": 21
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -10482,8 +10494,8 @@
                 "sqkm": 21280.71,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "el5teacompa\u00f1a": 1,
-                "itsoeh": 1
+                "hidalgonosedetiene": 33,
+                "hidalgo": 28
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -11149,8 +11161,8 @@
                 "sqkm": 79851.44,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "el5teacompa\u00f1a": 4,
-                "jalisco": 2
+                "teamcacas": 131,
+                "teampendejos": 76
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -13473,7 +13485,8 @@
                 "sqkm": 5007.61,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "morelosnopagaasusmaestros": 1
+                "miramorelos": 32,
+                "morelos": 31
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -13711,8 +13724,8 @@
                 "sqkm": 27481.23,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "tepic": 2,
-                "nay": 2
+                "nayarit": 10,
+                "sntesalud": 10
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -14418,8 +14431,8 @@
                 "sqkm": 65173.05,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "timstwitterlisteningparty": 3,
-                "ninettayeb": 1
+                "teamcacas": 146,
+                "quedateencasa": 75
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15336,7 +15349,9 @@
                 "population": 3329574,
                 "sqkm": 92715.81,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "4tnosdejasincomida": 52,
+                "oaxaca": 39
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -16458,8 +16473,8 @@
                 "sqkm": 34365.46,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "muymal": 1,
-                "elcacas": 1
+                "teamcacas": 98,
+                "4tnosdejasincomida": 57
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -17512,7 +17527,9 @@
                 "population": 1143544,
                 "sqkm": 12094.6,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "quer\u00e9taro": 61,
+                "quedateencasa": 38
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -17922,8 +17939,8 @@
                 "sqkm": 51205.79,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "covid19": 1,
-                "quintanaroo": 1
+                "quedateencasa": 36,
+                "cancun": 34
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -18757,8 +18774,8 @@
                 "sqkm": 64140.09,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "enfrijoladas": 1,
-                "miacolucci": 1
+                "familiagm": 97,
+                "plebesgmslp": 95
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -19808,8 +19825,8 @@
                 "sqkm": 57638.85,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "floreriajoselyn": 1,
-                "culiacan": 1
+                "quedateencasa": 25,
+                "teamtou": 22
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -20899,8 +20916,8 @@
                 "sqkm": 180813.77,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "pug": 2,
-                "albondigas": 1
+                "quedateencasa": 34,
+                "sonora": 23
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -21998,8 +22015,8 @@
                 "sqkm": 24081.14,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "coronavirus": 1,
-                "vs": 1
+                "tabasco": 36,
+                "quedateencasa": 31
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -22481,8 +22498,8 @@
                 "sqkm": 79502.24,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "mentiravirus": 2,
-                "nuevolaredo": 1
+                "tamaulipas": 44,
+                "covid19": 34
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -23539,7 +23556,9 @@
                 "population": 828003,
                 "sqkm": 4091.04,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "infortlax": 32,
+                "mexico": 7
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -23725,8 +23744,8 @@
                 "sqkm": 71286.36,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "picoftheday": 4,
-                "followme": 4
+                "m\u00e9xico": 83,
+                "veracruz": 58
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -25308,8 +25327,8 @@
                 "sqkm": 37967.36,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "bronx": 1,
-                "nyc": 1
+                "quedateencasa": 33,
+                "merida": 15
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -25627,8 +25646,8 @@
                 "sqkm": 74995.58,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "icet": 2,
-                "usanetwork": 2
+                "zacatecas": 21,
+                "quedateencasa": 14
             },
             "geometry": {
                 "type": "MultiPolygon",

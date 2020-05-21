@@ -10,7 +10,7 @@ filtro = mt.dataImport(['../data/diccionarios/cod.txt'])
 direccion = '../data/json/'
 
 dataFull = dt.downloadData(filtro)
-#data = mt.etiqueta(dataFull[0], filtro)
+# data = mt.etiqueta(dataFull[0], filtro)
 try:
     data = mt.change_edo(dataFull[0])
 

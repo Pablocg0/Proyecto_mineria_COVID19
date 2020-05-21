@@ -3407,7 +3407,9 @@
                 "population": 582193,
                 "sqkm": 50234.82,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 2,
+                "tos": 114
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4028,7 +4030,8 @@
                 "population": 3524501,
                 "sqkm": 73771.48,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "tos": 219
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4701,7 +4704,8 @@
                 "population": 2656214,
                 "sqkm": 247935.02,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "tos": 267
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -5834,7 +5838,11 @@
                 "population": 9724226,
                 "sqkm": 1342.75,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 6,
+                "tos": 4369,
+                "fiebre": 2,
+                "cansancio": 7
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -6932,7 +6940,8 @@
                 "population": 466124,
                 "sqkm": 5747.09,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 2
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -7145,7 +7154,8 @@
                 "population": 1467826,
                 "sqkm": 120674.6,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "tos": 177
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8246,7 +8256,9 @@
                 "population": 10662420,
                 "sqkm": 21694.38,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 3,
+                "tos": 1441
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8955,7 +8967,10 @@
                 "population": 4332525,
                 "sqkm": 30466.18,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 1,
+                "tos": 475,
+                "cansancio": 3
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9624,7 +9639,9 @@
                 "population": 2867451,
                 "sqkm": 64626.02,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 1,
+                "tos": 218
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -10469,7 +10486,10 @@
                 "population": 2053998,
                 "sqkm": 21280.71,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 1,
+                "tos": 243,
+                "dolor de espalda": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -11134,7 +11154,8 @@
                 "population": 5772704,
                 "sqkm": 79851.44,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "tos": 1560
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -13456,7 +13477,8 @@
                 "population": 1299939,
                 "sqkm": 5007.61,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "tos": 253
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -14398,7 +14420,12 @@
                 "population": 3370912,
                 "sqkm": 65173.05,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 2,
+                "tos": 1411,
+                "fiebre": 3,
+                "dolor de garganta": 1,
+                "cansancio": 2
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15315,7 +15342,8 @@
                 "population": 3329574,
                 "sqkm": 92715.81,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "cuerpo cortado": 2
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -16437,7 +16465,10 @@
                 "sqkm": 34365.46,
                 "created_at": "2014-08-19T17:34:57",
                 "updated_at": "2020/03/31 04:24:37",
-                "tos": 4
+                "tos": 616,
+                "fiebre": 1,
+                "dolor de garganta": 2,
+                "cansancio": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -17490,7 +17521,10 @@
                 "population": 1143544,
                 "sqkm": 12094.6,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 4,
+                "tos": 537,
+                "dolor de espalda": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -17899,7 +17933,10 @@
                 "population": 536599,
                 "sqkm": 51205.79,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 2,
+                "tos": 414,
+                "fiebre": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -18732,7 +18769,11 @@
                 "population": 2179006,
                 "sqkm": 64140.09,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 2,
+                "tos": 526,
+                "dolor de garganta": 2,
+                "cansancio": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -19781,7 +19822,9 @@
                 "population": 2397706,
                 "sqkm": 57638.85,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 4,
+                "tos": 412
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -20870,7 +20913,11 @@
                 "population": 1983593,
                 "sqkm": 180813.77,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 1,
+                "tos": 521,
+                "fiebre": 1,
+                "cansancio": 3
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -21967,7 +22014,11 @@
                 "population": 1633691,
                 "sqkm": 24081.14,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 4,
+                "tos": 326,
+                "fiebre": 1,
+                "dolor de garganta": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -22448,7 +22499,11 @@
                 "population": 2272724,
                 "sqkm": 79502.24,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "dolor de cabeza": 2,
+                "tos": 368,
+                "fiebre": 1,
+                "cansancio": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -25271,7 +25326,10 @@
                 "population": 1482218,
                 "sqkm": 37967.36,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "tos": 365,
+                "dolor de garganta": 1,
+                "cansancio": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -25588,7 +25646,8 @@
                 "population": 1383680,
                 "sqkm": 74995.58,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "tos": 79
             },
             "geometry": {
                 "type": "MultiPolygon",

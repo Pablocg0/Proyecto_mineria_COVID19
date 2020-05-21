@@ -16,7 +16,11 @@
                 "population": 782890,
                 "sqkm": 5609.14,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "depresion": 2,
+                "cansado": 1,
+                "insomnio": 5,
+                "enojado": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -277,7 +281,13 @@
                 "population": 1806829,
                 "sqkm": 72725.41,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 1,
+                "depresion": 1,
+                "cansado": 1,
+                "fatiga": 1,
+                "insomnio": 4,
+                "ansiedad": 6
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -1550,7 +1560,11 @@
                 "population": 345682,
                 "sqkm": 72278.3,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "depresion": 1,
+                "enojado": 1,
+                "enojada": 1,
+                "ansiedad": 3
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -3407,7 +3421,16 @@
                 "population": 582193,
                 "sqkm": 50234.82,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 2,
+                "depresion": 3,
+                "cansado": 1,
+                "cansada": 1,
+                "insomnio": 6,
+                "enojado": 1,
+                "ansiedad": 7,
+                "tension": 1,
+                "nervioso": 2
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4028,7 +4051,12 @@
                 "population": 3524501,
                 "sqkm": 73771.48,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "depresion": 1,
+                "cansado": 1,
+                "insomnio": 8,
+                "enojada": 1,
+                "ansiedad": 4
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -4701,7 +4729,15 @@
                 "population": 2656214,
                 "sqkm": 247935.02,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 1,
+                "depresion": 1,
+                "cansada": 1,
+                "insomnio": 3,
+                "enojado": 1,
+                "enojada": 4,
+                "ansiedad": 2,
+                "tension": 2
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -5834,7 +5870,20 @@
                 "population": 9724226,
                 "sqkm": 1342.75,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 17,
+                "depresion": 16,
+                "cansado": 21,
+                "fatiga": 3,
+                "cansada": 5,
+                "insomnio": 48,
+                "enojado": 17,
+                "enojada": 5,
+                "ansiedad": 49,
+                "temblores": 3,
+                "tension": 32,
+                "nervioso": 6,
+                "nerviosa": 10
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -7145,7 +7194,11 @@
                 "population": 1467826,
                 "sqkm": 120674.6,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "cansada": 1,
+                "insomnio": 3,
+                "tension": 2,
+                "nervioso": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8246,7 +8299,19 @@
                 "population": 10662420,
                 "sqkm": 21694.38,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 4,
+                "depresion": 4,
+                "cansado": 8,
+                "fatiga": 1,
+                "cansada": 5,
+                "insomnio": 22,
+                "enojado": 1,
+                "enojada": 1,
+                "ansiedad": 11,
+                "tension": 5,
+                "nervioso": 2,
+                "nerviosa": 2
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -8955,7 +9020,17 @@
                 "population": 4332525,
                 "sqkm": 30466.18,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 1,
+                "depresion": 6,
+                "cansado": 4,
+                "cansada": 1,
+                "insomnio": 11,
+                "enojado": 3,
+                "enojada": 1,
+                "ansiedad": 11,
+                "tension": 1,
+                "nerviosa": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -9624,7 +9699,11 @@
                 "population": 2867451,
                 "sqkm": 64626.02,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "depresion": 3,
+                "cansado": 2,
+                "insomnio": 1,
+                "tension": 2
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -10469,7 +10548,18 @@
                 "population": 2053998,
                 "sqkm": 21280.71,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 4,
+                "depresion": 2,
+                "cansada": 2,
+                "insomnio": 8,
+                "enojado": 1,
+                "enojada": 1,
+                "ansiedad": 3,
+                "crisis de ansiedad": 1,
+                "dolor de espalda": 1,
+                "temblores": 1,
+                "tension": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -11134,7 +11224,21 @@
                 "population": 5772704,
                 "sqkm": 79851.44,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 5,
+                "depresion": 9,
+                "cansado": 4,
+                "fatiga": 2,
+                "cansada": 7,
+                "insomnio": 19,
+                "enojado": 4,
+                "enojada": 6,
+                "ansiedad": 22,
+                "crisis de ansiedad": 2,
+                "temblores": 2,
+                "tension": 7,
+                "nervioso": 2,
+                "nerviosa": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -13456,7 +13560,14 @@
                 "population": 1299939,
                 "sqkm": 5007.61,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 1,
+                "depresion": 2,
+                "insomnio": 3,
+                "enojado": 2,
+                "ansiedad": 6,
+                "temblores": 1,
+                "nervioso": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -13693,7 +13804,8 @@
                 "population": 897046,
                 "sqkm": 27481.23,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "insomnio": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -14398,7 +14510,20 @@
                 "population": 3370912,
                 "sqkm": 65173.05,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 4,
+                "depresion": 9,
+                "cansado": 7,
+                "fatiga": 8,
+                "cansada": 11,
+                "insomnio": 19,
+                "enojado": 10,
+                "enojada": 6,
+                "ansiedad": 16,
+                "crisis de ansiedad": 1,
+                "tension": 11,
+                "nervioso": 6,
+                "nerviosa": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -15315,7 +15440,12 @@
                 "population": 3329574,
                 "sqkm": 92715.81,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 1,
+                "depresion": 1,
+                "fatiga": 1,
+                "insomnio": 1,
+                "ansiedad": 2
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -16436,7 +16566,18 @@
                 "population": 4487672,
                 "sqkm": 34365.46,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 2,
+                "depresion": 5,
+                "cansado": 4,
+                "fatiga": 2,
+                "cansada": 1,
+                "insomnio": 13,
+                "enojada": 2,
+                "ansiedad": 8,
+                "tension": 1,
+                "nervioso": 1,
+                "nerviosa": 2
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -17489,7 +17630,18 @@
                 "population": 1143544,
                 "sqkm": 12094.6,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 3,
+                "depresion": 3,
+                "cansado": 3,
+                "cansada": 1,
+                "insomnio": 9,
+                "enojado": 1,
+                "enojada": 1,
+                "ansiedad": 6,
+                "dolor de espalda": 1,
+                "tension": 1,
+                "nervioso": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -17898,7 +18050,13 @@
                 "population": 536599,
                 "sqkm": 51205.79,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "depresion": 3,
+                "cansado": 1,
+                "cansada": 1,
+                "insomnio": 1,
+                "ansiedad": 2,
+                "tension": 5
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -18731,7 +18889,14 @@
                 "population": 2179006,
                 "sqkm": 64140.09,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 1,
+                "depresion": 4,
+                "cansada": 2,
+                "insomnio": 3,
+                "enojado": 2,
+                "ansiedad": 8,
+                "nerviosa": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -19780,7 +19945,17 @@
                 "population": 2397706,
                 "sqkm": 57638.85,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 1,
+                "depresion": 4,
+                "cansado": 3,
+                "cansada": 4,
+                "insomnio": 8,
+                "enojada": 1,
+                "ansiedad": 5,
+                "dolor de espalda": 1,
+                "tension": 4,
+                "nerviosa": 4
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -20869,7 +21044,18 @@
                 "population": 1983593,
                 "sqkm": 180813.77,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 4,
+                "depresion": 8,
+                "cansado": 4,
+                "cansada": 6,
+                "insomnio": 9,
+                "enojado": 6,
+                "enojada": 4,
+                "ansiedad": 20,
+                "tension": 2,
+                "nervioso": 1,
+                "nerviosa": 2
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -21966,7 +22152,15 @@
                 "population": 1633691,
                 "sqkm": 24081.14,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 3,
+                "depresion": 4,
+                "cansado": 4,
+                "insomnio": 7,
+                "enojado": 1,
+                "enojada": 4,
+                "ansiedad": 9,
+                "tension": 4
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -22447,7 +22641,16 @@
                 "population": 2272724,
                 "sqkm": 79502.24,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 2,
+                "depresion": 2,
+                "cansado": 4,
+                "cansada": 5,
+                "insomnio": 7,
+                "enojada": 2,
+                "ansiedad": 2,
+                "tension": 1,
+                "nerviosa": 2
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -23504,7 +23707,10 @@
                 "population": 828003,
                 "sqkm": 4091.04,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "enojado": 2,
+                "enojada": 1,
+                "ansiedad": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -25270,7 +25476,16 @@
                 "population": 1482218,
                 "sqkm": 37967.36,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "salud mental": 3,
+                "depresion": 2,
+                "cansado": 6,
+                "cansada": 2,
+                "insomnio": 10,
+                "enojado": 2,
+                "ansiedad": 6,
+                "tension": 5,
+                "nervioso": 2
             },
             "geometry": {
                 "type": "MultiPolygon",
@@ -25587,7 +25802,11 @@
                 "population": 1383680,
                 "sqkm": 74995.58,
                 "created_at": "2014-08-19T17:34:57",
-                "updated_at": "2020/03/31 04:24:37"
+                "updated_at": "2020/03/31 04:24:37",
+                "cansada": 1,
+                "insomnio": 3,
+                "ansiedad": 1,
+                "nervioso": 1
             },
             "geometry": {
                 "type": "MultiPolygon",
